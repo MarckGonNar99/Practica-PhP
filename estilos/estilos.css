@@ -1,0 +1,94 @@
+body{
+ background-color: aquamarine;
+}
+.error{
+ color: red;
+ margin-left: 50%;
+}
+.mensaje{
+ color: seagreen;
+ margin-left: 50%;
+
+}
+.titulo{
+ display: flex;
+ justify-content: center;
+ padding-bottom: 10%;
+}
+#noticias_index{
+ display: flex;
+ padding-bottom: 10%;
+ justify-content: space-evenly;
+}
+#autor_index{
+ display: flex;
+ padding-bottom: 10%;
+ justify-content:center;
+}
+#form_index{
+ display: flex;
+ padding-bottom: 10%;
+ justify-content: center;
+}
+#form_index form{
+ background-color: slateblue;
+ padding: 3%;
+ border:slategray dotted 5px;
+}
+.buscar{
+ display: flex;
+ justify-content: end;
+ margin-top: 2%;
+ padding-bottom: 10%;
+ padding-right: 3%;
+}
+.tabla{
+ background-color: turquoise;
+ margin-left: 5%;
+ margin-bottom: 5%;
+ width: 80%;
+}
+.insertar{
+ display: flex;
+ padding-bottom: 10%;
+ justify-content: center;
+}
+.insertar form{
+ padding: 3%;
+ background-color: tomato;
+ border: 5px solid rgb(195, 251, 169);
+}
+.modificar{
+ display: flex;
+ padding-bottom: 10%;
+ justify-content: center;
+}
+.modificar form{
+ padding: 3%;
+ background-color: rgb(170, 10, 85);
+ border: 5px solid rgb(135, 112, 149);
+}
+.modificar legend{
+color: silver;
+}
+.cajas{
+ display: flex;
+ padding-bottom: 10%;
+ flex-wrap: wrap;
+}
+#calendario{
+ margin-left: 20%;
+ display: flex;
+ flex-direction: column;
+}
+#noticia_completa{
+ width: 50%;
+ padding: 3%;
+}
+#noticia_completa img{
+ width: 100%;
+}
+#noticia_completa h2{
+ color:peru;
+ font-style: italic;
+}

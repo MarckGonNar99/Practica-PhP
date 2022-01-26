@@ -1,0 +1,20 @@
+*******************Probar cliente****************
+Hay una foto para añadirla como ejemplo
+
+*******************Probar noticia***************
+Hay una imagen puesta de ejemplo //OTROS DATOS
+Titulo:
+Las mascotas pasan a ser un miembro más de la familia
+Contenido: Desde mañana, 5 de enero, las mascotas serán jurídicamente un miembro más de la familia. Los animales dejan de ser considerados como ‘cosas’ para a ser ‘seres vivos con sensibilidad’.
+
+La Ley 17/2021 modifica el Código Civil para adaptarlo a la verdadera naturaleza de los animales como seres sensibles. Un cambio que debería haberse realizado en 1987, cuando España firmó un convenio europeo.
+
+Según aseguran desde el Colegio de Veterinarios de Santa Cruz de Tenerife, el cambio tiene que ver con un cambio de mentalidad.
+
+Regula la custodia y el régimen de visitas en caso de divorcio o separación e incluso contempla su utilización en caso de violencia de género.
+
+
+*****************ERRORES DE LA PAGINA****************************
+No hay paginacion, no encuentro el error
+En citas puede borrar cualquier cita, pasada, hoy o mañana
+La url al pasar paginas tanto como admin-usuario-no_resgis añade barras extra
